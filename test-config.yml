@@ -1,0 +1,5 @@
+test:
+  property1: test property
+  property2: second test property
+ 
+some.other.property: some other property
